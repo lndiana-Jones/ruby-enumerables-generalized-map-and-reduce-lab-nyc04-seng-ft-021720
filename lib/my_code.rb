@@ -3,7 +3,7 @@ def general_map(source_array)
   new = []
   
   while i < source_array.length
-    
+    yield
     i += 1 
   end 
   
