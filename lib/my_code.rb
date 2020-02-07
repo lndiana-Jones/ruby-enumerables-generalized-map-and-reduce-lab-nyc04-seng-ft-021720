@@ -12,7 +12,7 @@ end
 
 def reduce(source_array, starting_point = nil)
   if starting_point
-    num1 =
+    num1 = starting_point
   
   
   
